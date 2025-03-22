@@ -1,5 +1,3 @@
-# StartupSecussPredic
-
 # **Startup Success Prediction**  
 
 This project aims to predict whether an operating startup will **succeed or fail**. Success is defined as the company achieving a **Merger & Acquisition (M&A)** or an **Initial Public Offering (IPO)**, providing substantial financial returns to its founders. Failure occurs when the startup **shuts down**.  
